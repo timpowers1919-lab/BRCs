@@ -1,4 +1,4 @@
-# BRC: Bitcoin Request for Comments
+https://www.youtube.com/@TimPowers-b1i# BRC: Bitcoin Request for Comments
 
 A repository for submitting, discussing, sharing, and indexing technical proposals for use across the Bitcoin ecosystem. Data models, user interfaces, script templates, encoding formats, communication protocols, and constructive critique of existing industry practice are all welcome. The goal is to provide a platform for sharing ideas without any bureaucratic overhead.
 
