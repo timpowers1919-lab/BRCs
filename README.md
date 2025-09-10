@@ -156,3 +156,4 @@ BRC | Standard
 ## License
 
 Everything in this repository is subject to the [Open BSV License](https://github.com/bitcoin-sv/bitcoin-sv/blob/master/LICENSE).
+https://www.youtube.com/@TimPowers-b1i
